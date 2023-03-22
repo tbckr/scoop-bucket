@@ -1,0 +1,21 @@
+{
+    "version": "1.8.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/tbckr/sgpt/releases/download/v1.8.0/sgpt_Windows_i386.zip",
+            "bin": [
+                "sgpt.exe"
+            ],
+            "hash": "b7139ec26aeadd24fbbb3dcf8de3c220231033da25710ab91ab5b033993d6316"
+        },
+        "64bit": {
+            "url": "https://github.com/tbckr/sgpt/releases/download/v1.8.0/sgpt_Windows_x86_64.zip",
+            "bin": [
+                "sgpt.exe"
+            ],
+            "hash": "c848e40fc29d2f3edd3411f0ff9bc54f7cb39c28369987fba55f6c14f7c58dfd"
+        }
+    },
+    "license": "MIT",
+    "description": "SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands, produce code, and create images from text directly from the terminal."
+}
