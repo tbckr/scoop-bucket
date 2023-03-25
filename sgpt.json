@@ -1,19 +1,19 @@
 {
-    "version": "1.12.0",
+    "version": "1.12.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/tbckr/sgpt/releases/download/v1.12.0/sgpt_Windows_i386.zip",
+            "url": "https://github.com/tbckr/sgpt/releases/download/v1.12.1/sgpt_Windows_i386.zip",
             "bin": [
                 "sgpt.exe"
             ],
-            "hash": "4d5f4c7bde2af839964f3849b6e45a44543abd044496126d408cc055a2ee887b"
+            "hash": "020cbe6422efaaffba099d4b566fcad2cb90ee5604d781f31bc545e02da02848"
         },
         "64bit": {
-            "url": "https://github.com/tbckr/sgpt/releases/download/v1.12.0/sgpt_Windows_x86_64.zip",
+            "url": "https://github.com/tbckr/sgpt/releases/download/v1.12.1/sgpt_Windows_x86_64.zip",
             "bin": [
                 "sgpt.exe"
             ],
-            "hash": "a961ce14853ad00afef9e77fa33a51fd83703bab3e8bc5fa77b84efc357b17b3"
+            "hash": "8842999601f201545f2daba2fe51904ab273479bcb4755b4f8a46a2ea3cbb472"
         }
     },
     "license": "MIT",
